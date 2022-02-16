@@ -7,5 +7,5 @@
 > alsamixer
 ### Up Sound
 > alias sup='amixer -D pulse set Master 5%+ '
-###Down Sound
+### Down Sound
 > alias sup='amixer -D pulse set Master 5%- '
